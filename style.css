@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: red;
+    padding: 30px;
+}
+.container{
+    min-height: 400px;
+    min-height: 400px;
+    margin: 10%;
+    background: rgb(243, 243, 243);
+    border-radius: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+button{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0 8px;
+}
+button:hover{
+    color: white;
+    background: black;
+}
+.container img{
+    width: 50%;
+}
